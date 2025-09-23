@@ -1,0 +1,13 @@
+[
+  {
+    "cover-image": "https://picsum.photos/900/700",
+    "date": "2025-01-01",
+    "theme": "aquaculture",
+    "tags": "test",
+    "official": true,
+    "file": "https://gtif-ukif.github.io/gtif-ukif-narratives/sample.md",
+    "title": "Example Narrative",
+    "subtitle": "An introduction on how to write interactive and multimedial stories using markdown. Scroll down to get started!",
+    "image": "assets/previews/hero_4142525b-c3d3-451c-8b45-779331b079ff_preview.png"
+  }
+]
