@@ -17,7 +17,7 @@ Forty-eight high exceedance incidents are shown for London, with similar numbers
 
 It should be noted that the WHO "safe limit" for PM2.5 is 10 ug/cu.m. Many of these incidents show exceedances above 50 ug/cu.m.
 
-It is planned to use these data to train a deep learning network to provide 10 m PM2.5 retrievals using Sentinel-2. However, the number of clear days is limited, so a daily product is unlikely.
+Single Image Super- Resolution (SISR) has been applied to generate 250m PM2.5 maps from 2017-22. All the published in situ PM2.5 have been added so you can plot time series of MODIS vs in situ as well as correlation plots by site (click on site). Road infrastructure based on the OSM project is included as well as road and air traffic densities so you can visualise the link between mobility by fossil fuels and PM2.5.
 
 ## 1 km Daily Map of UKIF Area
 
