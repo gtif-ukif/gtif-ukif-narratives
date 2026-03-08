@@ -25,8 +25,20 @@ Single Image Super- Resolution (SISR) has been applied to generate 250m PM2.5 ma
   <source src="https://cdn.arcgis.com/sharing/rest/content/items/9eb99d96f50c4acabb314476a08704d6/resources/jtikevJO43rBoPWwXPKWD.mp4" type="video/mp4" />
 </video>
 
-## Zoomed to London Area (MODIS-MAIC)
+## Zoomed to 250m London Area (MODIS-MAIC)
 
 <video controls loop muted playsinline style="width:100%; border-radius:12px;">
   <source src="https://cdn.arcgis.com/sharing/rest/content/items/9eb99d96f50c4acabb314476a08704d6/resources/VJuD19Su9wtPavTOLMwGQ.mp4" type="video/mp4" />
 </video>
+
+## Interactive Map of GMIF Air Quality
+
+Explore the GMIF air quality capability interactively below. The map combines the UCL3 PM2.5 raster layer with the GMIF air quality station layer so you can inspect the current state directly in the story.
+
+<iframe
+  src="https://eodash.github.io/preview-instance/?stacEndpoint=https%3A%2F%2Fgtif-ukif.github.io%2Fgtif-ukif-catalog%2Fpr-preview%2Fpr-38%2Fgtif-ukif%2Fcatalog.json&x=-1.0136&y=50.5195&z=6.8146&indicator=UCL3_GMIF_air_quality&datetime=2025-01-01"
+  title="GMIF Air Quality Interactive Map"
+  style="width:100%; height:700px; border:0; border-radius:12px;"
+  loading="lazy"
+  allowfullscreen
+></iframe>
