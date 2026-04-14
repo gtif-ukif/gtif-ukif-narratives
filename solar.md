@@ -19,17 +19,19 @@ The below maps of the UK + Ireland show the predicted solar power output from si
 
 Maps of the UK + Ireland showing the predicted solar power output from single-side PV panels, with exclusion zones for AONB, SSSI, National Parks and the Irish SAC / SPA / NHA designations superimposed.
 
-![UK + Ireland predicted solar output — map 1](https://gtif-ukif.github.io/gtif-ukif-narratives/assets/previews/solar/solar_uk_ireland_1.png) <!--{ style="width:100%; border-radius:12px;" }-->
-
-![UK + Ireland predicted solar output — map 2](https://gtif-ukif.github.io/gtif-ukif-narratives/assets/previews/solar/solar_uk_ireland_2.png) <!--{ style="width:100%; border-radius:12px;" }-->
+<div style="display:flex; flex-wrap:wrap; gap:1rem; width:100%;">
+  <img src="https://gtif-ukif.github.io/gtif-ukif-narratives/assets/previews/solar/solar_uk_ireland_1.png" alt="UK + Ireland predicted solar output — map 1" style="flex:1 1 300px; min-width:0; max-width:calc(50% - 0.5rem); height:auto; border-radius:12px; object-fit:contain;" />
+  <img src="https://gtif-ukif.github.io/gtif-ukif-narratives/assets/previews/solar/solar_uk_ireland_2.png" alt="UK + Ireland predicted solar output — map 2" style="flex:1 1 300px; min-width:0; max-width:calc(50% - 0.5rem); height:auto; border-radius:12px; object-fit:contain;" />
+</div>
 
 ## Crop-growing zones and AI-detected solar farms
 
-The map below (left) shows an area in middle England which is dominated by crop-growing, showing these exclusion zones in more detail. The map to the right shows existing solar farms automatically detected using AI deep learning techniques.
+Drag the slider to compare an area in middle England dominated by crop-growing with exclusion zones (left) against existing solar farms automatically detected using AI deep learning techniques (right).
 
-![Overlay of dominated crop-growing area (middle England) with detailed exclusion zones](https://gtif-ukif.github.io/gtif-ukif-narratives/assets/previews/solar/solar_middle_england_crops.jpg) <!--{ style="width:100%; border-radius:12px;" }-->
-
-![Existing solar farms automatically detected using AI deep learning techniques](https://gtif-ukif.github.io/gtif-ukif-narratives/assets/previews/solar/solar_ai_detected_farms.jpg) <!--{ style="width:100%; border-radius:12px;" }-->
+<eox-map-compare value="50" style="width:100%; height:520px; display:block; border-radius:12px; overflow:hidden;">
+  <img slot="first" src="https://gtif-ukif.github.io/gtif-ukif-narratives/assets/previews/solar/solar_middle_england_crops.jpg" style="width:100%; height:100%; object-fit:cover;" />
+  <img slot="second" src="https://gtif-ukif.github.io/gtif-ukif-narratives/assets/previews/solar/solar_ai_detected_farms.jpg" style="width:100%; height:100%; object-fit:cover;" />
+</eox-map-compare>
 
 Overlay of dominated crop-growing area (left) & automatically detected solar farms (right).
 

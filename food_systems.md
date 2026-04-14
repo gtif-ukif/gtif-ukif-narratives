@@ -15,25 +15,25 @@ A 10m spectral true colour (Red Green Blue) mosaic albedo map of central and Eas
 
 ## East Anglia — 2020 vs 2022
 
-East Anglia in August of a non-drought year (2020) compared to the same month in the severe drought year (2022). Images are rotated 90 degrees clockwise.
+Drag the slider to compare East Anglia in August of a non-drought year (2020) with the same month in the severe drought year (2022). Images are rotated 90 degrees clockwise.
 
-![East Anglia August 2020 — non-drought year](https://gtif-ukif.github.io/gtif-ukif-narratives/assets/previews/food_systems/east_anglia_2020_aug.jpeg) <!--{ style="width:100%; border-radius:12px;" }-->
+<eox-map-compare value="50" style="width:100%; height:520px; display:block; border-radius:12px; overflow:hidden;">
+  <img slot="first" src="https://gtif-ukif.github.io/gtif-ukif-narratives/assets/previews/food_systems/east_anglia_2020_aug.jpeg" style="width:100%; height:100%; object-fit:cover;" />
+  <img slot="second" src="https://gtif-ukif.github.io/gtif-ukif-narratives/assets/previews/food_systems/east_anglia_2022_aug.jpeg" style="width:100%; height:100%; object-fit:cover;" />
+</eox-map-compare>
 
-![East Anglia August 2022 — severe drought year](https://gtif-ukif.github.io/gtif-ukif-narratives/assets/previews/food_systems/east_anglia_2022_aug.jpeg) <!--{ style="width:100%; border-radius:12px;" }-->
-
-East Anglia August 2020 (top) — East Anglia August 2022 (bottom). Rotated 90 degrees clockwise.
+East Anglia August 2020 (left) — East Anglia August 2022 (right). Rotated 90 degrees clockwise.
 
 ## RGB BHR albedo — June 2020 vs June 2022
 
-Red-Green-Blue Bi-Hemispherical Reflectance (BHR) albedo of central and East England for June 2020 (non-drought) and June 2022 (drought).
+Drag the slider to compare the Red-Green-Blue Bi-Hemispherical Reflectance (BHR) albedo of central and East England for June 2020 (non-drought, left) and June 2022 (drought, right).
 
-![RGB BHR albedo of June 2022](https://gtif-ukif.github.io/gtif-ukif-narratives/assets/previews/food_systems/rgb_bhr_albedo_june_2022.png) <!--{ style="width:100%; border-radius:12px;" }-->
+<eox-map-compare value="50" style="width:100%; height:600px; display:block; border-radius:12px; overflow:hidden;">
+  <img slot="first" src="https://gtif-ukif.github.io/gtif-ukif-narratives/assets/previews/food_systems/rgb_bhr_albedo_june_2020.png" style="width:100%; height:100%; object-fit:contain; background:#000;" />
+  <img slot="second" src="https://gtif-ukif.github.io/gtif-ukif-narratives/assets/previews/food_systems/rgb_bhr_albedo_june_2022.png" style="width:100%; height:100%; object-fit:contain; background:#000;" />
+</eox-map-compare>
 
-RGB BHR albedo of June 2022.
-
-![RGB BHR albedo of June 2020](https://gtif-ukif.github.io/gtif-ukif-narratives/assets/previews/food_systems/rgb_bhr_albedo_june_2020.png) <!--{ style="width:100%; border-radius:12px;" }-->
-
-RGB BHR albedo of June 2020.
+RGB BHR albedo — June 2020 (left) vs June 2022 (right).
 
 ## NDVI — June 2022
 
