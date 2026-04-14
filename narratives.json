@@ -42,5 +42,16 @@
     "title": "Carbon Accounting: Fugitive methane emissions",
     "subtitle": "A look into point source methane emissions from earth observation data, detected via Sentinel-2 SWIR channels over oil and gas facilities.",
     "image": "assets/previews/carbon_accounting/carbon_accounting_1.png"
+  },
+  {
+    "cover-image": "https://gtif-ukif.github.io/gtif-ukif-narratives/assets/previews/solar/solar_uk_ireland_1.png",
+    "date": "2026-04-13",
+    "theme": "energy",
+    "tags": "solar,solar farms,PV,agrivoltaics,exclusion zones,AONB,SSSI,energy,UKIF",
+    "official": true,
+    "file": "https://gtif-ukif.github.io/gtif-ukif-narratives/solar.md",
+    "title": "Energy: Optimum Solar Power Potential Sites",
+    "subtitle": "A look at rural solar farms and exclusion zones across the UK + Ireland, with AI-detected existing solar installations over crop-growing regions.",
+    "image": "assets/previews/solar/solar_uk_ireland_1.png"
   }
 ]
