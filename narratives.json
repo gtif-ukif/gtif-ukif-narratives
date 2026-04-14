@@ -31,5 +31,16 @@
     "title": "Sustainable Cities: Urban Heat Islands",
     "subtitle": "A look at the relationship between urban heat and urban land cover classes, surface imperviousness, and building efficiency ratings.",
     "image": "assets/previews/sustainable_cities/sustainable_cities_1.png"
+  },
+  {
+    "cover-image": "https://gtif-ukif.github.io/gtif-ukif-narratives/assets/previews/carbon_accounting/carbon_accounting_1.png",
+    "date": "2026-04-13",
+    "theme": "carbon accounting",
+    "tags": "methane,fugitive emissions,oil and gas,sentinel-2,SWIR,carbon accounting,UKIF",
+    "official": true,
+    "file": "https://gtif-ukif.github.io/gtif-ukif-narratives/carbon_accounting.md",
+    "title": "Carbon Accounting: Fugitive methane emissions",
+    "subtitle": "A look into point source methane emissions from earth observation data, detected via Sentinel-2 SWIR channels over oil and gas facilities.",
+    "image": "assets/previews/carbon_accounting/carbon_accounting_1.png"
   }
 ]
