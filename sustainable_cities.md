@@ -42,3 +42,9 @@ The relationship between the Urban Heat Island (UHI) effect and building efficie
 Conversely, buildings with higher efficiency ratings are designed to regulate indoor temperatures more effectively, reducing the need for energy-intensive cooling and minimizing external heat emissions. They often incorporate better insulation, reflective or high-albedo materials, and more efficient systems that collectively help lower the amount of anthropogenic heat released outdoors. As a result, spatial patterns of building efficiency can correlate strongly with UHI intensity, highlighting how improving energy performance across the building stock can contribute to reducing urban heat and enhancing overall climate resilience.
 
 ![Urban Heat and Building Efficiency Ratings](https://gtif-ukif.github.io/gtif-ukif-narratives/assets/previews/sustainable_cities/sustainable_cities_4.png) <!--{ style="width:100%; border-radius:12px;" }-->
+
+## Credits
+
+Urban Heat Island analysis, land cover and building efficiency mapping provided by Compass Informatics.
+
+![Compass Informatics](https://gtif-ukif.github.io/gtif-ukif-narratives/assets/previews/sustainable_cities/compass-informatics-logo.png) <!--{ style="max-width:220px; margin-top:0.5rem;" }-->

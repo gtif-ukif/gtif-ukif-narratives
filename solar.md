@@ -32,3 +32,9 @@ The map below (left) shows an area in middle England which is dominated by crop-
 ![Existing solar farms automatically detected using AI deep learning techniques](https://gtif-ukif.github.io/gtif-ukif-narratives/assets/previews/solar/solar_ai_detected_farms.jpg) <!--{ style="width:100%; border-radius:12px;" }-->
 
 Overlay of dominated crop-growing area (left) & automatically detected solar farms (right).
+
+## Credits
+
+Analysis, solar potential modelling and AI solar farm detection provided by University College London (UCL).
+
+![UCL](https://gtif-ukif.github.io/gtif-ukif-narratives/assets/previews/solar/ucl-logo.webp) <!--{ style="max-width:220px; margin-top:0.5rem;" }-->
