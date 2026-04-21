@@ -44,14 +44,14 @@
     "image": "assets/previews/solar/solar_uk_ireland_1.png"
   },
   {
-    "cover-image": "https://gtif-ukif.github.io/gtif-ukif-narratives/assets/previews/food_systems/east_anglia_2022_aug.jpeg",
+    "cover-image": "https://gtif-ukif.github.io/gtif-ukif-narratives/assets/previews/food_systems/rgb_albedo_east_anglia_aug_2022_hero.png",
     "date": "2026-04-13",
     "theme": "food security",
     "tags": "drought,food systems,NDVI,BHR albedo,Sentinel-2,VIIRS,East Anglia,UKIF",
     "official": true,
     "file": "https://gtif-ukif.github.io/gtif-ukif-narratives/food_systems.md",
     "title": "Food Security: Drought Occurrence and Impact on Food Systems",
-    "subtitle": "Drought occurrence and its impact across the UK & Ireland, using Sentinel-2 10m BHR albedo and NDVI to compare 2020 (non-drought) with 2022 (severe drought).",
-    "image": "assets/previews/food_systems/east_anglia_2022_aug.jpeg"
+    "subtitle": "Drought occurrence and its impact across the UK, Ireland & France, using Sentinel-2 10m BHR albedo and NDVI to compare 2020 (non-drought) with 2022 (severe drought).",
+    "image": "assets/previews/food_systems/rgb_albedo_east_anglia_aug_2022_hero.png"
   }
 ]

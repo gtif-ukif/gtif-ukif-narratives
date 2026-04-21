@@ -1,13 +1,13 @@
 ---
-cover-image: https://gtif-ukif.github.io/gtif-ukif-narratives/assets/previews/food_systems/east_anglia_2022_aug.jpeg
+cover-image: https://gtif-ukif.github.io/gtif-ukif-narratives/assets/previews/food_systems/rgb_albedo_east_anglia_aug_2022_hero.png
 date: 2026-04-13
-theme: food systems
+theme: food security
 tags: drought,food systems,NDVI,BHR albedo,Sentinel-2,VIIRS,East Anglia,UKIF
 official: true
 ---
 
-# Food Systems: Drought Occurrence and Impact on Food Systems <!--{ as="image" mode="hero" src="https://gtif-ukif.github.io/gtif-ukif-narratives/assets/previews/food_systems/east_anglia_2022_aug.jpeg" }-->
-### A look at Drought occurrence and impact on Food Systems across the UK & Ireland <!--{ style="font-size:1rem;opacity:0.8;margin-top:1rem;" }-->
+# Food Security: Drought Occurrence and Impact on Food Systems <!--{ as="image" mode="hero" src="https://gtif-ukif.github.io/gtif-ukif-narratives/assets/previews/food_systems/rgb_albedo_east_anglia_aug_2022_hero.png" }-->
+### A look at Drought occurrence and impact on Food Systems across the UK, Ireland & France <!--{ style="font-size:1rem;opacity:0.8;margin-top:1rem;" }-->
 
 ## Overview
 
@@ -35,13 +35,29 @@ Drag the slider to compare the Red-Green-Blue Bi-Hemispherical Reflectance (BHR)
 
 RGB BHR albedo — June 2020 (left) vs June 2022 (right).
 
-## NDVI — June 2022
+## NDVI — Aug 2020 cf. Aug 2022
 
-NDVI derived from the BHR spectral albedos in Red and NIR channels, tracking vegetation response in the drought year.
+NDVI derived from the BHR spectral albedos in Red and NIR channels. Drag the slider to compare August of a non-drought year (2020, gaps from cloud cover) against the severe drought year (2022).
 
-![NDVI for 10m Sentinel-2 derived from BHR spectral albedos for June 2022](https://gtif-ukif.github.io/gtif-ukif-narratives/assets/previews/food_systems/ndvi_june_2022.png) <!--{ style="width:100%; border-radius:12px;" }-->
+<eox-map-compare value="50" style="width:100%; height:600px; display:block; border-radius:12px; overflow:hidden;">
+  <img slot="first" src="https://gtif-ukif.github.io/gtif-ukif-narratives/assets/previews/food_systems/ndvi_aug_2020.png" style="width:100%; height:100%; object-fit:contain; background:#000;" />
+  <img slot="second" src="https://gtif-ukif.github.io/gtif-ukif-narratives/assets/previews/food_systems/ndvi_aug_2022.png" style="width:100%; height:100%; object-fit:contain; background:#000;" />
+</eox-map-compare>
 
-NDVI for 10m Sentinel-2 derived from BHR spectral albedos for Jun 2022.
+NDVI for 10m Sentinel-2 derived from BHR spectral albedos — Aug 2020 (left, non-drought, gaps) vs Aug 2022 (right, drought).
+
+## SPEI drought index forecast
+
+Drought forecasts for August 2020 & 2022 (drought year). SPEI (Standardised Precipitation & Evapotranspiration Index) is accepted as the best current parameter for measuring and forecasting drought. August 2020 and August 2022 SPEI forecasts are displayed which can be inspected in the eodashboard.
+
+<eox-map-compare value="50" style="width:100%; height:600px; display:block; border-radius:12px; overflow:hidden;">
+  <img slot="first" src="https://gtif-ukif.github.io/gtif-ukif-narratives/assets/previews/food_systems/spei_england_aug_2020.png" style="width:100%; height:100%; object-fit:contain; background:#000;" />
+  <img slot="second" src="https://gtif-ukif.github.io/gtif-ukif-narratives/assets/previews/food_systems/spei_england_aug_2022.png" style="width:100%; height:100%; object-fit:contain; background:#000;" />
+</eox-map-compare>
+
+SPEI drought index forecast — England, Aug 2020 (left, non-drought) vs Aug 2022 (right, drought).
+
+![SPEI colour legend](https://gtif-ukif.github.io/gtif-ukif-narratives/assets/previews/food_systems/spei_legend.png) <!--{ style="max-width:420px; margin-top:0.75rem;" }-->
 
 ## Credits
 

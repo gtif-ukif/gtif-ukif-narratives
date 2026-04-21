@@ -11,7 +11,7 @@ official: true
 
 ## Overview
 
-The below maps of the UK + Ireland show the predicted solar power output from single-side PV panels across the British Isles with superimposed areas indicating those which will be excluded in any search for locating future solar farms in rural areas. These exclusion zones include Areas of Outstanding Natural Beauty (AONB), Sites of Special Scientific Interest (SSSI) and National Parks for the UK regions (England, Scotland, Wales and Northern Ireland) and for the Republic of Ireland\*. The areas left which may be suitable are primarily grassland and arable crops and the land cover is shown here for these areas indicating that there are around 50% of the land area which may be suitable for bi-facial solar farms to allow agriculture to continue and improve the local micro-climate from the Agrivoltaic environment.
+The maps below of the UK + Ireland show the predicted solar power output from single-side PV panels across the British Isles with superimposed areas indicating those which will be excluded in any search for locating future solar farms in rural areas. These exclusion zones include Areas of Outstanding Natural Beauty (AONB), Sites of Special Scientific Interest (SSSI) and National Parks for the UK regions (England, Scotland, Wales and Northern Ireland) and for the Republic of Ireland\*. The areas left which may be suitable are primarily grassland and arable crops and the land cover is shown here for these areas indicating that there are around 50% of the land area which may be suitable for bi-facial solar farms to allow agriculture to continue and improve the local micro-climate from the Agrivoltaic environment.
 
 *\*Special Area of Conservation (SAC), Special Protection Area (SPA), Natural Heritage Area (NHA)*
 
@@ -23,6 +23,10 @@ Maps of the UK + Ireland showing the predicted solar power output from single-si
   <img src="https://gtif-ukif.github.io/gtif-ukif-narratives/assets/previews/solar/solar_uk_ireland_1.png" alt="UK + Ireland predicted solar output — map 1" style="flex:1 1 300px; min-width:0; max-width:calc(50% - 0.5rem); height:auto; border-radius:12px; object-fit:contain;" />
   <img src="https://gtif-ukif.github.io/gtif-ukif-narratives/assets/previews/solar/solar_uk_ireland_2.png" alt="UK + Ireland predicted solar output — map 2" style="flex:1 1 300px; min-width:0; max-width:calc(50% - 0.5rem); height:auto; border-radius:12px; object-fit:contain;" />
 </div>
+
+![bfPVout+ — additional fraction of solar power from bi-facial PV using measured albedo, June 2022](https://gtif-ukif.github.io/gtif-ukif-narratives/assets/previews/solar/bfpvout_plus_jun_2022.png) <!--{ style="width:100%; border-radius:12px; margin-top:1rem;" }-->
+
+The additional power shown as a decimal fraction that can be generated using bi-facial PV's using measured albedo (bfPVout+). Note the regions in England and Scotland which maximise solar power from bi-facial. N.B. Gaps in the bfPVout+ are caused by persistent cloud cover in June 2022. these can be filled using time series interpolation.
 
 ## Crop-growing zones and AI-detected solar farms
 
