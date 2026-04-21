@@ -15,9 +15,9 @@ The maps below of the UK + Ireland show the predicted solar power output from si
 
 *\*Special Area of Conservation (SAC), Special Protection Area (SPA), Natural Heritage Area (NHA)*
 
-## Predicted solar power output — UK + Ireland
+## Predicted solar power output — UK + Ireland + France
 
-Maps of the UK + Ireland showing the predicted solar power output from single-side PV panels, with exclusion zones for AONB, SSSI, National Parks and the Irish SAC / SPA / NHA designations superimposed.
+Maps of the UK + Ireland + France showing the predicted solar power output from single-side PV panels, with exclusion zones for AONB, SSSI, National Parks and the Irish SAC / SPA / NHA designations superimposed.
 
 <div style="display:flex; flex-wrap:wrap; gap:1rem; width:100%;">
   <img src="https://gtif-ukif.github.io/gtif-ukif-narratives/assets/previews/solar/solar_uk_ireland_1.png" alt="UK + Ireland predicted solar output — map 1" style="flex:1 1 300px; min-width:0; max-width:calc(50% - 0.5rem); height:auto; border-radius:12px; object-fit:contain;" />

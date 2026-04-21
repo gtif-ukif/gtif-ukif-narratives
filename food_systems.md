@@ -24,17 +24,6 @@ Drag the slider to compare East Anglia in August of a non-drought year (2020) wi
 
 East Anglia August 2020 (left) — East Anglia August 2022 (right). Rotated 90 degrees clockwise.
 
-## RGB BHR albedo — June 2020 vs June 2022
-
-Drag the slider to compare the Red-Green-Blue Bi-Hemispherical Reflectance (BHR) albedo of central and East England for June 2020 (non-drought, left) and June 2022 (drought, right).
-
-<eox-map-compare value="50" style="width:100%; height:600px; display:block; border-radius:12px; overflow:hidden;">
-  <img slot="first" src="https://gtif-ukif.github.io/gtif-ukif-narratives/assets/previews/food_systems/rgb_bhr_albedo_june_2020.png" style="width:100%; height:100%; object-fit:contain; background:#000;" />
-  <img slot="second" src="https://gtif-ukif.github.io/gtif-ukif-narratives/assets/previews/food_systems/rgb_bhr_albedo_june_2022.png" style="width:100%; height:100%; object-fit:contain; background:#000;" />
-</eox-map-compare>
-
-RGB BHR albedo — June 2020 (left) vs June 2022 (right).
-
 ## NDVI — Aug 2020 cf. Aug 2022
 
 NDVI derived from the BHR spectral albedos in Red and NIR channels. Drag the slider to compare August of a non-drought year (2020, gaps from cloud cover) against the severe drought year (2022).
