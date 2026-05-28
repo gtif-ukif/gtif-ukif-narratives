@@ -1,57 +1,13 @@
 [
   {
-    "cover-image": "https://raw.githubusercontent.com/eurodatacube/eodash-assets/main/stories/covid-no2/hero.jpg",
-    "date": "2026-02-17",
-    "theme": "mobility transition",
-    "tags": "air quality,pm2.5,ukif,london,mobility",
+    "cover-image": "https://picsum.photos/900/700",
+    "date": "2025-01-01",
+    "theme": "aquaculture",
+    "tags": "test",
     "official": true,
-    "file": "https://gtif-ukif.github.io/gtif-ukif-narratives/air_quality.md",
-    "title": "Mobility Transition: Urban Air Quality (PM2.5) at a Street Level",
-    "subtitle": "Street-level PM2.5 patterns across UKIF and London from MODIS-MAIC daily maps (2018-2022).",
-    "image": "https://raw.githubusercontent.com/eurodatacube/eodash-assets/main/stories/covid-no2/hero.jpg"
-  },
-  {
-    "cover-image": "https://gtif-ukif.github.io/gtif-ukif-narratives/assets/previews/sustainable_cities/sustainable_cities_1.png",
-    "date": "2026-03-04",
-    "theme": "sustainable cities",
-    "tags": "urban heat island,UHI,land cover,imperviousness,building efficiency,sustainable cities,UKIF",
-    "official": true,
-    "file": "https://gtif-ukif.github.io/gtif-ukif-narratives/sustainable_cities.md",
-    "title": "Sustainable Cities: Urban Heat Islands",
-    "subtitle": "A look at the relationship between urban heat and urban land cover classes, surface imperviousness, and building efficiency ratings.",
-    "image": "assets/previews/sustainable_cities/sustainable_cities_1.png"
-  },
-  {
-    "cover-image": "https://gtif-ukif.github.io/gtif-ukif-narratives/assets/previews/carbon_accounting/carbon_accounting_1.png",
-    "date": "2026-04-13",
-    "theme": "carbon accounting",
-    "tags": "methane,fugitive emissions,oil and gas,sentinel-2,SWIR,carbon accounting,UKIF",
-    "official": true,
-    "file": "https://gtif-ukif.github.io/gtif-ukif-narratives/carbon_accounting.md",
-    "title": "Carbon Accounting: Fugitive methane emissions",
-    "subtitle": "A look into point source methane emissions from earth observation data, detected via Sentinel-2 SWIR channels over oil and gas facilities.",
-    "image": "assets/previews/carbon_accounting/carbon_accounting_1.png"
-  },
-  {
-    "cover-image": "https://gtif-ukif.github.io/gtif-ukif-narratives/assets/previews/solar/solar_uk_ireland_1.png",
-    "date": "2026-04-13",
-    "theme": "energy transition",
-    "tags": "solar,solar farms,PV,agrivoltaics,exclusion zones,AONB,SSSI,energy,UKIF",
-    "official": true,
-    "file": "https://gtif-ukif.github.io/gtif-ukif-narratives/solar.md",
-    "title": "Energy Transition: Optimum Solar Power Potential Sites",
-    "subtitle": "A look at rural solar farms and exclusion zones across the UK + Ireland, with AI-detected existing solar installations over crop-growing regions.",
-    "image": "assets/previews/solar/solar_uk_ireland_1.png"
-  },
-  {
-    "cover-image": "https://gtif-ukif.github.io/gtif-ukif-narratives/assets/previews/food_systems/rgb_albedo_east_anglia_aug_2022_hero.png",
-    "date": "2026-04-13",
-    "theme": "food security",
-    "tags": "drought,food systems,NDVI,BHR albedo,Sentinel-2,VIIRS,East Anglia,UKIF",
-    "official": true,
-    "file": "https://gtif-ukif.github.io/gtif-ukif-narratives/food_systems.md",
-    "title": "Food Security: Drought Occurrence and Impact on Food Systems",
-    "subtitle": "Drought occurrence and its impact across the UK, Ireland & France, using Sentinel-2 10m BHR albedo and NDVI to compare 2020 (non-drought) with 2022 (severe drought).",
-    "image": "assets/previews/food_systems/rgb_albedo_east_anglia_aug_2022_hero.png"
+    "file": "https://gtif-austria.github.io/public-narratives/sample.md",
+    "title": "Example Narrative",
+    "subtitle": "An introduction on how to write interactive and multimedial stories using markdown. Scroll down to get started!",
+    "image": "assets/previews/hero_e38409e3-9f05-43d6-9abc-43065f605c81_preview.png"
   }
 ]
