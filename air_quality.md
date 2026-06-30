@@ -19,6 +19,8 @@ It should be noted that the WHO "safe limit" for PM2.5 is 10 ug/cu.m. Many of th
 
 Single Image Super- Resolution (SISR) has been applied to generate 250m PM2.5 maps from 2017-22. All the published in situ PM2.5 have been added so you can plot time series of MODIS vs in situ as well as correlation plots by site (click on site). Road infrastructure based on the OSM project is included as well as road and air traffic densities so you can visualise the link between mobility by fossil fuels and PM2.5.
 
+MODIS PM2.5 data courtesy of J. Wei and taken from Wei, J.; Li, Z.; Lyapustin, A.; Wang, J.; Dubovik, O.; Schwartz, J.; Sun, L.; Li, C.; Liu, S.; Zhu, T. First close insight into global daily gapless 1 km PM2.5 pollution, variability, and health impact. Nat. Commun. 2023, 14, 8349
+
 ## 1 km Daily Map of UKIF Area (MODIS/MAIC)
 
 <video controls loop muted playsinline style="width:100%; border-radius:12px;">
