@@ -1,36 +1,14 @@
 [
   {
-    "cover-image": "https://raw.githubusercontent.com/eurodatacube/eodash-assets/main/stories/covid-no2/hero.jpg",
-    "date": "2026-02-17",
-    "theme": "mobility",
-    "tags": "air quality,pm2.5,ukif,london,mobility",
+    "cover-image": "https://gtif-ukif.github.io/gtif-ukif-narratives/assets/previews/sustainable_cities/sustainable_cities_1.png",
+    "date": "2026-03-04",
+    "theme": "sustainable cities",
+    "tags": "urban heat island,UHI,land cover,imperviousness,building efficiency,sustainable cities,UKIF",
     "official": true,
-    "file": "https://gtif-ukif.github.io/gtif-ukif-narratives/pr-preview/pr-3/air_quality.md",
-    "title": "Mobility: Urban Air Quality (PM2.5) at a Street Level",
-    "subtitle": "A look at urban air quality at a street level, to encourage active travel",
-    "image": "assets/previews/hero_41176bb3-404c-4f4e-a6c6-c08ff3c8fdf5_preview.png"
-  },
-  {
-    "cover-image": "https://gtif-ukif.github.io/gtif-ukif-narratives/assets/previews/solar/solar_uk_ireland_1.png",
-    "date": "2026-04-13",
-    "theme": "energy",
-    "tags": "solar,solar farms,PV,agrivoltaics,exclusion zones,AONB,SSSI,energy,UKIF",
-    "official": true,
-    "file": "https://gtif-ukif.github.io/gtif-ukif-narratives/pr-preview/pr-3/solar.md",
-    "title": "Energy: Optimum Solar Power Potential Sites",
-    "subtitle": "A look at Rural Solar Farms and exclusion zones",
-    "image": "assets/previews/solar_uk_ireland_1_42a6dc60-6524-4add-9792-795b3525783c_preview.png"
-  },
-  {
-    "cover-image": "https://picsum.photos/900/700",
-    "date": "2025-01-01",
-    "theme": "aquaculture",
-    "tags": "test",
-    "official": true,
-    "file": "https://gtif-ukif.github.io/gtif-ukif-narratives/pr-preview/pr-3/sample.md",
-    "title": "Example Narrative",
-    "subtitle": "An introduction on how to write interactive and multimedial stories using markdown. Scroll down to get started!",
-    "image": "assets/previews/hero_97b7abae-45da-423e-8157-72d641781d6c_preview.png"
+    "file": "https://gtif-ukif.github.io/gtif-ukif-narratives/pr-preview/pr-3/sustainable_cities.md",
+    "title": "Sustainable Cities: Urban Heat Islands",
+    "subtitle": "A look at the relationship between urban heat and urban land cover classes, surface imperviousness, and building efficiency ratings",
+    "image": "assets/previews/sustainable_cities_1_4a2435be-e49f-447b-8dcb-cd952019afd0_preview.png"
   },
   {
     "cover-image": "https://gtif-ukif.github.io/gtif-ukif-narratives/assets/previews/carbon_accounting/carbon_accounting_1.png",
@@ -41,7 +19,40 @@
     "file": "https://gtif-ukif.github.io/gtif-ukif-narratives/pr-preview/pr-3/carbon_accounting.md",
     "title": "Carbon Accounting: Fugitive methane emissions",
     "subtitle": "A look into point source methane emissions from earth observation data",
-    "image": "assets/previews/carbon_accounting_1_1c2ede03-a8cd-4211-b313-3cad6c901eea_preview.png"
+    "image": "assets/previews/carbon_accounting_1_561ca120-ba42-408b-bed9-fafac6d7e0c4_preview.png"
+  },
+  {
+    "cover-image": "https://raw.githubusercontent.com/eurodatacube/eodash-assets/main/stories/covid-no2/hero.jpg",
+    "date": "2026-02-17",
+    "theme": "mobility",
+    "tags": "air quality,pm2.5,ukif,london,mobility",
+    "official": true,
+    "file": "https://gtif-ukif.github.io/gtif-ukif-narratives/pr-preview/pr-3/air_quality.md",
+    "title": "Mobility: Urban Air Quality (PM2.5) at a Street Level",
+    "subtitle": "A look at urban air quality at a street level, to encourage active travel",
+    "image": "assets/previews/hero_ee2ab607-3454-422e-9e42-9070c89ab411_preview.png"
+  },
+  {
+    "cover-image": "https://picsum.photos/900/700",
+    "date": "2025-01-01",
+    "theme": "aquaculture",
+    "tags": "test",
+    "official": true,
+    "file": "https://gtif-ukif.github.io/gtif-ukif-narratives/pr-preview/pr-3/sample.md",
+    "title": "Example Narrative",
+    "subtitle": "An introduction on how to write interactive and multimedial stories using markdown. Scroll down to get started!",
+    "image": "assets/previews/hero_7a2c1d78-3ac0-440e-bb86-334680023c72_preview.png"
+  },
+  {
+    "cover-image": "https://gtif-ukif.github.io/gtif-ukif-narratives/assets/previews/solar/solar_uk_ireland_1.png",
+    "date": "2026-04-13",
+    "theme": "energy",
+    "tags": "solar,solar farms,PV,agrivoltaics,exclusion zones,AONB,SSSI,energy,UKIF",
+    "official": true,
+    "file": "https://gtif-ukif.github.io/gtif-ukif-narratives/pr-preview/pr-3/solar.md",
+    "title": "Energy: Optimum Solar Power Potential Sites",
+    "subtitle": "A look at Rural Solar Farms and exclusion zones",
+    "image": "assets/previews/solar_uk_ireland_1_9340b5c9-c35c-4ddb-9260-dea286ddcc49_preview.png"
   },
   {
     "cover-image": "https://gtif-ukif.github.io/gtif-ukif-narratives/assets/previews/food_systems/rgb_albedo_east_anglia_aug_2022_hero.png",
@@ -52,17 +63,6 @@
     "file": "https://gtif-ukif.github.io/gtif-ukif-narratives/pr-preview/pr-3/food_systems.md",
     "title": "Food Security: Drought Occurrence and Impact on Food Systems",
     "subtitle": "A look at Drought occurrence and impact on Food Systems across the UK, Ireland & France",
-    "image": "assets/previews/rgb_albedo_east_anglia_aug_2022_hero_e53bfc49-6e88-4cae-a70b-46ae6672d9ec_preview.png"
-  },
-  {
-    "cover-image": "https://gtif-ukif.github.io/gtif-ukif-narratives/assets/previews/sustainable_cities/sustainable_cities_1.png",
-    "date": "2026-03-04",
-    "theme": "sustainable cities",
-    "tags": "urban heat island,UHI,land cover,imperviousness,building efficiency,sustainable cities,UKIF",
-    "official": true,
-    "file": "https://gtif-ukif.github.io/gtif-ukif-narratives/pr-preview/pr-3/sustainable_cities.md",
-    "title": "Sustainable Cities: Urban Heat Islands",
-    "subtitle": "A look at the relationship between urban heat and urban land cover classes, surface imperviousness, and building efficiency ratings",
-    "image": "assets/previews/sustainable_cities_1_6b894a5a-983f-4a3d-bede-5aa531823543_preview.png"
+    "image": "assets/previews/rgb_albedo_east_anglia_aug_2022_hero_5d3abcf5-277e-49e9-b984-3050957b2bec_preview.png"
   }
 ]
