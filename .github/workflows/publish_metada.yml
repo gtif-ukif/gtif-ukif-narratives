@@ -17,19 +17,13 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@de0fac2e4500dabe0009e67214ff5f5447ce83dd # v6
 
-      - name: Set up Python
-        uses: actions/setup-python@a309ff8b426b58ec0e2a45f0f869d46889d02405 # v6
-        with:
-          python-version: '3.x'
-
-      - name: Install Dependencies
-        run: pip install markdown pyaml pillow requests opencv-python
-
-      - name: Extract Metadata
+      - name: Build output
         run: |
           mkdir -p output
-          python .github/extract_metadata.py "https://gtif-austria.github.io/public-narratives/"
-          cp *.md output
+          cp *.md output/ 2>/dev/null || true
+          cp narratives.json output/ 2>/dev/null || true
+          mkdir -p output/assets
+          cp -r assets/. output/assets/
           touch output/.nojekyll
 
       - name: Deploy
